@@ -1,0 +1,5 @@
+.header{
+    justify-content: flex-start;
+    text-align: center;
+    background: linear-gradient(to bottom, lightgreen, darkgreen);
+}
